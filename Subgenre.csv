@@ -1,0 +1,53 @@
+Subgenre ID,Subgenre,Genre ID
+1,Alternative rock,1
+2,Country,2
+3,Country rock,2
+4,Dance,3
+5,Dance-pop,4
+6,Electropop,4
+7,Eurotechno,3
+8,Funk rock,1
+9,Hard rock,1
+10,Heavy metal,5
+11,Conscious hip hop,6
+12,Pop,4
+13,Pop rock,1
+14,Prog rock,1
+15,Contemporary R&B,7
+16,Reggaeton,8
+17,Rock,1
+18,Soul,9
+19,Synth-pop,4
+20,Folk,10
+21,Rock and roll,1
+22,Euro disco,3
+23,Disco,3
+24,Art rock,1
+25,Glam rock,1
+26,Roots rock,1
+27,Soft rock,11
+28,Folk rock,10
+29,Folk-pop,10
+30,Christmas,11
+32,Blue-eyed soul,9
+33,New wave,4
+34,Industrial rock,1
+35,Art pop,4
+36,West coast hip hop,6
+37,Experimental hip hop,6
+38,EDM,3
+39,Trap,6
+40,Jazz,12
+41,Thrash metal,5
+42,Alternative metal,5
+43,Symphonic metal,5
+44,Bubblegum pop,4
+45,Lo-fi,13
+46,Psychedelic rock,1
+47,Country pop,2
+48,Indie folk,10
+49,Progressive soul,9
+50,Blues rock,1
+51,Rhythm and blues,1
+52,Alternative R&B,7
+53,Post-punk,1

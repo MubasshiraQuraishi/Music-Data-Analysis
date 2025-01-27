@@ -1,0 +1,47 @@
+Venue type ID,Venue type,Venue category ID
+1,Indoor arena,1
+2,Baseball stadium,2
+3,Convention centre,1
+4,Football stadium,2
+5,Athletics stadium,2
+6,Motor racing circuit,3
+7,Open-air ice rink,3
+8,Racecourse,3
+9,Festival grounds,3
+10,American football stadium,2
+11,Rugby stadium,2
+12,Australian rules football stadium,2
+13,Cricket stadium,2
+14,Public space,3
+15,Airfield,3
+16,Exposition centre grounds,3
+17,Live music venue,3
+18,Hotel,3
+19,Stately home,3
+20,Park,3
+21,Gaelic games stadium,2
+22,Sports facility,3
+23,Amphitheatre,3
+24,Theatre,1
+25,Event park,3
+26,Ski slope,3
+27,Winery,3
+28,Golf course,3
+29,Concert hall,1
+30,Equestrian centre,3
+31,Castle,3
+32,Tennis stadium,2
+33,Polo stadium,2
+34,Theme park,3
+35,Nightclub,1
+37,Open-air museum,3
+38,Parking lot,3
+39,Skate park,1
+40,Ice rink,1
+41,Film studio,3
+42,Cycling track,3
+43,Bullring,2
+44,Dock,3
+45,Public square,3
+46,Beach,3
+47,Hockey stadium,2

@@ -1,0 +1,722 @@
+City ID,City,Country ID
+1,Aarhus,19
+2,Aberdeen,77
+3,Abu Dhabi,76
+4,Adelaide,3
+5,Aix-en-Provence,26
+6,Alajuela,15
+7,"Albany, GA",78
+8,"Albany, NY",78
+9,Albenga,37
+10,Albuquerque,78
+11,Alicante,68
+12,Allentown,78
+13,Almería,68
+14,Alton,77
+15,Amarillo,78
+16,Ames,78
+17,Amsterdam,48
+18,Anaheim,78
+19,Anchorage,78
+20,Ankara,74
+21,Ann Arbor,78
+22,Annecy-le-Vieux,26
+23,Antwerp,5
+24,Arlington,78
+25,Arnhem,48
+26,Arras,26
+27,Asunción,53
+28,Athens,28
+29,"Athens, OH",78
+30,Atlanta,78
+31,Atlantic City,78
+32,Auburn Hills,78
+33,"Auburn, AL",78
+34,"Auburn, WA",78
+35,Auckland,49
+36,Augusta,78
+37,Auning,19
+38,Austin,78
+39,Bakersfield,78
+40,Baltimore,78
+41,Bandar Seri Begawan,9
+42,Bangalore,33
+43,Bangkok,72
+44,Barcelona,68
+45,Bari,37
+46,Barranquilla,14
+47,Basel,70
+48,Bathurst,3
+49,Baton Rouge,78
+50,Bayamón,58
+51,Bayreuth,27
+52,Beaumont,78
+53,Beijing,13
+54,Belfast,77
+55,Belgrade,62
+56,Belo Horizonte,8
+57,Bend,78
+58,Benidorm,68
+59,Bergen,50
+60,Berlin,27
+61,Bern,70
+62,Bettembourg,41
+63,Bilbao,68
+64,Billings,78
+65,Biloxi,78
+66,Binghamton,78
+67,Birmingham,77
+68,"Birmingham, AL",78
+69,Bismarck,78
+70,Bocaue,55
+71,Bogotá,14
+72,Boise,78
+73,Bologna,37
+74,Bolzano,37
+75,Bonner Springs,78
+76,Bordeaux,26
+77,Bossier City,78
+78,Boston,78
+79,Boulder,78
+80,Bournemouth,77
+81,Bozeman,78
+82,Brandon,78
+83,Brasília,8
+84,Bratislava,64
+85,Bremen,27
+86,Bridgeport,78
+87,Brighton,77
+88,Brisbane,3
+89,Bristol,77
+90,"Bristol, CT",78
+91,Bristow,78
+92,Brno,18
+93,Brussels,5
+94,Bucharest,60
+95,Budapest,31
+96,Budva,46
+97,Buenos Aires,2
+98,Buffalo,78
+99,Burgettstown,78
+100,Cairns,3
+101,Cairo,22
+102,Calgary,11
+103,Cali,14
+104,Camden,78
+105,Canandaigua,78
+106,Canberra,3
+107,Cancún,44
+108,Cape Girardeau,78
+109,Cape Town,66
+110,Caracas,80
+111,Carbondale,78
+112,Cardiff,77
+113,Carhaix-Plouguer,26
+114,Cariacica,8
+115,Carson,78
+116,Casablanca,47
+117,Casper,78
+118,Castle Donington,77
+119,Catanzaro,37
+120,Cava de' Tirreni,37
+121,Cedar Falls,78
+122,Cedar Rapids,78
+123,Champaign,78
+124,Chandler,78
+125,Chantilly,26
+126,Chapel Hill,78
+127,"Charleston, SC",78
+128,"Charleston, WV",78
+129,Charlevoix,78
+130,Charlotte,78
+131,Charlottesville,78
+132,Chattanooga,78
+133,Chiba,38
+134,Chicago,78
+135,Chorzów,56
+136,Christchurch,49
+137,Chula Vista,78
+138,Cincinnati,78
+139,Clarkston,78
+140,Clemson,78
+141,Cleveland,78
+142,Clisson,26
+143,Coffs Harbour,3
+144,Coimbra,57
+145,Coldstream,3
+146,College Station,78
+147,Cologne,27
+148,Colorado Springs,78
+149,"Columbia, MD",78
+150,"Columbia, MO",78
+151,"Columbia, SC",78
+152,Columbus,78
+153,Commerce City,78
+154,Compostela,68
+155,Concord,78
+156,Copenhagen,19
+157,Córdoba,2
+158,"Corfu, NY",78
+159,Cork,35
+160,Corpus Christi,78
+161,Costa Mesa,78
+162,Council Bluffs,78
+163,Coventry,77
+164,Curitiba,8
+165,Cuyahoga Falls,78
+166,Dallas,78
+167,Daly City,78
+168,Darwin,3
+169,Dax,26
+170,Dayton,78
+171,Daytona Beach,78
+172,Denver,78
+173,Des Moines,78
+174,Dessel,5
+175,Detroit,78
+176,Doha,59
+177,Dortmund,27
+178,Dover,78
+179,Dresden,27
+180,Dubai,76
+181,Dublin,35
+182,"Duluth, GA",78
+183,"Duluth, MN",78
+184,Dunedin,49
+185,Durban,66
+186,"Durham, NC",78
+187,Düsseldorf,27
+188,East Hartford,78
+189,East Lansing,78
+190,East Rutherford,78
+191,East Troy,78
+192,Ebreichsdorf,4
+193,Edinburgh,77
+194,Edmonton,11
+195,El Ejido,68
+196,El Paso,78
+197,Elmont,78
+198,Erie,78
+199,Essen,27
+200,Estero,78
+201,Eugene,78
+202,Evansville,78
+203,Everett,78
+204,Exeter,77
+205,Fairbanks,78
+206,Fairborn,78
+207,Fargo,78
+208,Florence,37
+209,Floriana,43
+210,Florianópolis,8
+211,Fort Wayne,78
+212,Fort Worth,78
+213,Fortaleza,8
+214,Foxborough,78
+215,Frankfurt,27
+216,Frauenfeld,70
+217,Fréjus,26
+218,Fresno,78
+219,Frome,77
+220,Fukuoka,38
+221,Gainesville,78
+222,Galway,35
+223,Gateshead,77
+224,Gda?sk,56
+225,Gdynia,56
+226,Geddes,78
+227,Geelong,3
+228,Gelsenkirchen,27
+229,Geneva,70
+230,George,78
+231,Ghent,5
+232,Gießen,27
+233,Gijón,68
+234,Glasgow,77
+235,Glendale,78
+236,Goiânia,8
+237,Gold Coast,3
+238,Gothenburg,69
+239,Gräfenhainichen,27
+240,Grand Forks,78
+241,Grand Rapids,78
+242,Graz,4
+243,Green Bay,78
+244,Greensboro,78
+245,Greenville,78
+246,Greenwood Village,78
+247,Grenoble,26
+248,Groningen,48
+249,Guadalajara,44
+250,Guadalupe,44
+251,Guatemala City,29
+252,Guayaquil,21
+253,Gulf Shores,78
+254,Halifax,11
+255,Hamburg,27
+256,Hämeenlinna,25
+257,Hamelin,27
+258,Hamilton,11
+259,Hampton,78
+260,Hanover,27
+261,Hartford,78
+262,Heerenveen,48
+263,Helsinki,25
+264,Herning,19
+265,Hershey,78
+266,Hessisch Lichtenau,27
+267,Hidalgo,78
+268,Hobart,3
+269,Hockenheim,27
+270,Hoffman Estates,78
+271,Hollywood,78
+272,Holmdel,78
+273,Hong Kong,13
+274,Honolulu,78
+275,Horsens,19
+276,Houston,78
+277,Hove,77
+278,Hradec Králové,18
+279,Hull,77
+280,Hunter Valley,3
+281,Huntsville,78
+282,Imola,37
+283,Incheon,67
+284,Indianapolis,78
+285,Indio,78
+286,Inglewood,78
+287,Innsbruck,4
+288,Iowa City,78
+289,Ipswich,77
+290,Irvine,78
+291,Irving,78
+292,Ischgl,4
+293,Istanbul,74
+294,Izmir,74
+295,Jackson,78
+296,Jacksonville,78
+297,Jakarta,34
+298,Jersey City,78
+299,Johannesburg,66
+300,Johnson City,78
+301,Kalamazoo,78
+302,Kansas City,78
+303,Kaohsiung,71
+304,Karlsruhe,27
+305,Kaunas,40
+306,Kelowna,11
+307,Kiel,27
+308,Kilkenny,35
+309,Klagenfurt,4
+310,Knebworth,77
+311,Knoxville,78
+312,Kobe,38
+313,Koblenz,27
+314,Kolding,19
+315,Kraków,56
+316,Kuala Lumpur,42
+317,Kyiv,75
+318,Kyoto,38
+319,La Coruña,68
+320,La Plata,2
+321,Lafayette,78
+322,Lahti,25
+323,Lake Placid,78
+324,Lakeland,78
+325,Landgraaf,48
+326,"Landover, MD",78
+327,Laredo,78
+328,Las Cruces,78
+329,Las Palmas,68
+330,Las Vegas,78
+331,Launceston,3
+332,Lausanne,70
+333,Ledyard,78
+334,Leeds,77
+335,Leipzig,27
+336,Les Escaldes,1
+337,Lexington,78
+338,Liège,5
+339,Liévin,26
+340,Lignano Sabbiadoro,37
+341,Lille,26
+342,Lima,54
+343,Limerick,35
+344,"Lincoln, NE",78
+345,Linz,4
+346,Lisbon,57
+347,Little Rock,78
+348,Liverpool,77
+349,Livorno,37
+350,Ljubljana,65
+351,Locarno,70
+352,?ód?,56
+353,London,77
+354,"London, ON",11
+355,Los Angeles,78
+356,Louisville,78
+357,Lubbock,78
+358,Lucca,37
+359,Ludwigshafen,27
+360,Lugano,70
+361,Lüneburg,27
+362,Luxembourg City,41
+363,Lyon,26
+364,Maastricht,48
+365,Macau,13
+366,Madison,78
+367,Madrid,68
+368,Maizières-lès-Metz,26
+369,Málaga,68
+370,Malmö,69
+371,Manaus,8
+372,Manchester,77
+373,"Manchester, NH",78
+374,"Manchester, TN",78
+375,Manhattan,78
+376,Manila,55
+377,Mannheim,27
+378,Mansfield,78
+379,Marbella,68
+380,Marseille,26
+381,Maryland Heights,78
+382,Maxéville,26
+383,Medellín,14
+384,Melbourne,3
+385,Memmingen,27
+386,Memphis,78
+387,Mérida,44
+388,Mexico City,44
+389,Miami,78
+390,Miami Beach,78
+391,Miami Gardens,78
+392,Milan,37
+393,Milton Keynes,77
+394,Milwaukee,78
+395,Minneapolis,78
+396,Missoula,78
+397,Mobile,78
+398,Modena,37
+399,Moline,78
+400,Mönchengladbach,27
+401,Moncton,11
+402,Monte Carlo,45
+403,Monterrey,44
+404,Montevideo,79
+405,Montgomery,78
+406,Montpellier,26
+407,Montreal,11
+408,Montreux,70
+409,Monza,37
+410,Morrison,78
+411,Moscow,61
+412,Mount Cotton,3
+413,Mountain View,78
+414,Mumbai,33
+415,Munich,27
+416,Murfreesboro,78
+417,Naas,35
+418,Nagoya,38
+419,Nampa,78
+420,Nantes,26
+421,Napa,78
+422,Napier,49
+423,Naples,37
+424,Nashville,78
+425,Nelson,49
+426,New Delhi,33
+427,New Haven,78
+428,New Orleans,78
+429,New Plymouth,49
+430,New York City,78
+431,"Newark, DE",78
+432,"Newark, NJ",78
+433,Newcastle upon Tyne,77
+434,"Newcastle, NSW",3
+435,Newport,77
+436,Newton,78
+437,Nice,26
+438,Nijmegen,48
+439,Nîmes,26
+440,Nishinomiya,38
+441,Noblesville,78
+442,"Norfolk, VA",78
+443,Norman,78
+444,North Charleston,78
+445,North Little Rock,78
+446,North Shore City,49
+447,Norwich,77
+448,Notre Dame,78
+449,Nottingham,77
+450,Nürburg,27
+451,Nuremberg,27
+452,Oakland,78
+453,Oberhausen,27
+454,Odense,19
+455,Oklahoma City,78
+456,Old Orchard Beach,78
+457,Oldenburg,27
+458,Omaha,78
+459,Ontario,78
+460,Orange Beach,78
+461,Orchard Park,78
+462,Orlando,78
+463,Oro-Medonte,11
+464,Osaka,38
+465,Oslo,50
+466,Ostend,5
+467,Ottawa,11
+468,Oviedo,68
+469,Padua,37
+470,Palermo,37
+471,Palmerston North,49
+472,Panama City,52
+473,Parañaque,55
+474,Paris,26
+475,Pasadena,78
+476,Pasay,55
+477,Pelham,78
+478,Pemberton,11
+479,Pembroke Pines,78
+480,Pensacola,78
+481,Peoria,78
+482,Perth,3
+483,Philadelphia,78
+484,Phoenix,78
+485,Pilton,77
+486,Pittsburgh,78
+487,Plymouth,77
+488,Pontiac,78
+489,Port Elizabeth,66
+490,"Portland, ME",78
+491,"Portland, OR",78
+492,Porto,57
+493,Porto Alegre,8
+494,Prague,18
+495,Pretoria,66
+496,Providence,78
+497,Provo,78
+498,Pullman,78
+499,Quebec City,11
+500,Quito,21
+501,Rabat,47
+502,Raleigh,78
+503,Rapid City,78
+504,Reading,78
+505,Recife,8
+506,Reggio Emilia,37
+507,Regina,11
+508,Reno,78
+509,Reykjavik,32
+510,Ribeirão Preto,8
+511,Richmond,78
+512,Ridgefield,78
+513,Riga,39
+514,Rio de Janeiro,8
+515,Roanoke,78
+516,Rochester,78
+517,Rockford,78
+518,Rogers,78
+519,Rome,37
+520,Rosario,2
+521,Rosarito,44
+522,Rosemont,78
+523,Roskilde,19
+524,Rostock,27
+525,Rotterdam,48
+526,Sacramento,78
+527,Saginaw,78
+528,Saint John,11
+529,Saint Paul,78
+530,Saint Petersburg,61
+531,Saint-Étienne,26
+532,Saitama,38
+533,Salt Lake City,78
+534,Salzburg,4
+535,San Antonio,78
+536,San Bernardino,78
+537,San Diego,78
+538,San Francisco,78
+539,San José,15
+540,"San Jose, CA",78
+541,San Juan,58
+542,San Pedro Sula,30
+543,San Salvador,23
+544,San Sebastián,68
+545,Santa Clara,78
+546,Santa Cruz,6
+547,Santa Cruz de Tenerife,68
+548,Santiago,12
+549,Santo Domingo,20
+550,São Paulo,8
+551,Sapporo,38
+552,Sarajevo,7
+553,Saratoga Springs,78
+554,Sarnia,11
+555,Saskatoon,11
+556,Schüttorf,27
+557,Scranton,78
+558,Seattle,78
+559,Selma,78
+560,Seoul,67
+561,Seville,68
+562,Shanghai,13
+563,Sheffield,77
+564,Shreveport,78
+565,Singapore,63
+566,Sioux City,78
+567,Sioux Falls,78
+568,Slane,35
+569,Sofia,10
+570,Sölvesborg,69
+571,South Bend,78
+572,South Burlington,78
+573,Southampton,77
+574,Southaven,78
+575,Spielberg,4
+576,Split,16
+577,Spokane,78
+578,Springfield,78
+579,St. Louis,78
+580,"St. Petersburg, FL",78
+581,State College,78
+582,Stateline,78
+583,Stavanger,50
+584,Stockholm,69
+585,Strasbourg,26
+586,Stuttgart,27
+587,Sunderland,77
+588,Sunrise,78
+589,Sunshine Coast,3
+590,Swansea,77
+591,Sydney,3
+592,Syracuse,78
+593,Tacoma,78
+594,Taipei,71
+595,Tallahassee,78
+596,Tallinn,24
+597,Tampa,78
+598,Tampere,25
+599,Taoyuan,71
+600,Tartu,24
+601,Tegucigalpa,30
+602,Tel Aviv,36
+603,Tempe,78
+604,Temuka,49
+605,The Hague,48
+606,The Woodlands,78
+607,Thessaloniki,28
+608,Thousand Palms,78
+609,Tijuana,44
+610,Tinley Park,78
+611,Tokorozawa,38
+612,Tokyo,38
+613,Toledo,78
+614,Topeka,78
+615,Toronto,11
+616,Toulon,26
+617,Toulouse,26
+618,Townsville,3
+619,Trenton,78
+620,Trieste,37
+621,Trondheim,50
+622,Tucson,78
+623,Tulsa,78
+624,Tunis,73
+625,Turin,37
+626,Turku,25
+627,Udine,37
+628,Uncasville,78
+629,Uniondale,78
+630,Upper Darby,78
+631,Utrecht,48
+632,Valencia,68
+633,Valladolid,68
+634,Vancouver,11
+635,Velika Gorica,16
+636,Venice,37
+637,Veracruz,44
+638,Vernon,78
+639,Verona,37
+640,Versailles,26
+641,Viareggio,37
+642,Victoria,11
+643,Vienna,4
+644,Vigo,68
+645,Virginia Beach,78
+646,Wahgunyah,3
+647,Wallingford,78
+648,Wantagh,78
+649,Warsaw,56
+650,"Washington, D.C.",78
+651,Watford,77
+652,Wellington,49
+653,Wels,4
+654,Werchter,5
+655,West Hollywood,78
+656,West Lafayette,78
+657,West Palm Beach,78
+658,West Valley City,78
+659,Wheatland,78
+660,Wheeling,78
+661,Whitley Bay,77
+662,Whitney,78
+663,Wichita,78
+664,Wichita Falls,78
+665,Wiener Neustadt,4
+666,Wiesbaden,27
+667,Wilkes-Barre,78
+668,Windsor,11
+669,Winnipeg,11
+670,Winston-Salem,78
+671,Woburn,77
+672,Wolfsburg,27
+673,Wollongong,3
+674,Woodend,3
+675,Worcester,78
+676,Würzburg,27
+677,Yakima,78
+678,Yokohama,38
+679,Zagreb,16
+680,Zapopan,44
+681,Zaragoza,68
+682,Zürich,70
+683,Ferrara,37
+684,Bolton,77
+685,Nancy,26
+686,Sopot,56
+687,Imst,4
+688,Nickelsdorf,4
+689,Sopron,31
+690,Freiburg im Breisgau,27
+691,Plovdiv,10
+692,Hyvinkää,25
+693,Weert,48
+694,"Midland, TX",78
+695,Sant Jordi de ses Salines,68
+696,Brampton,11
+697,San Luis Potosí,44
+698,Tampico,44
+699,"Fairfax, VA",78
+700,"Garland, TX",78
+701,Endicott,78
+702,Sønderborg,19
+703,"Bethlehem, PA",78
+704,Skanderborg,19
+705,Sandviken,69
+706,Scarborough,77
+707,Blackpool,77
+708,Strovolos,17
+709,Attard,43
+710,Nyon,70
+711,"Edinburg, TX",78
+712,Hasselt,5
+713,Chelmsford,77
+714,Weston-under-Lizard,77
+715,Amnéville,26
+716,Clermont-Ferrand,26
+717,Vilnius,40
+718,Muscat,51
+719,"Grand Prairie, TX",78
+720,"Bangor, ME",78
+721,"Berkeley, CA",78
